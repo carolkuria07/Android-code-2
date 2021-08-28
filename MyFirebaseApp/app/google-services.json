@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795350910472",
+    "project_id": "my-morning-firebase-app",
+    "storage_bucket": "my-morning-firebase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795350910472:android:1880e27e2156499aa073bd",
+        "android_client_info": {
+          "package_name": "com.kuria.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795350910472-ii0t3qe46o3g2033i8kvqdq03nggqel7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWpK2McDPM23UEhNbwffYwwUWKfwCdT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795350910472-ii0t3qe46o3g2033i8kvqdq03nggqel7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
